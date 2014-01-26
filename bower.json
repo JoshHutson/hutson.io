@@ -9,7 +9,6 @@
     "angular-cookies": "1.2.6",
     "angular-sanitize": "1.2.6",
     "angular-route": "1.2.6",
-    "angular-bootstrap": "~0.10.0",
     "bootstrap-sass": "3.0.0"
   },
   "devDependencies": {
