@@ -60,6 +60,8 @@ body {
     bottom: 0;
     background: #000;
     @include opacity(.60);
+
+    -webkit-overflow-scrolling: touch;
 }
 
 .container-narrow > hr {
@@ -80,6 +82,10 @@ body {
 /* Supporting marketing content */
 .marketing {
     margin: 40px 0 35px;
+
+    p {
+        font-size: 14px;
+    }
 }
 
 .marketing p + h4 {
